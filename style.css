@@ -67,3 +67,5 @@ nav{gap:2px 18px}nav a{font-size:.78rem}@media(max-width:1260px){.burger{display
 .book .bd a{display:inline-block;margin-top:6px}
 
 .cover{max-width:340px}.cover img{width:100%;border-radius:3px;box-shadow:0 24px 50px rgba(16,28,58,.35)}.badge{display:inline-block;background:var(--gold);color:#fff;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;padding:4px 12px;border-radius:2px;margin-bottom:14px}.photo.sm{max-width:380px}
+
+footer .credit{margin:6px 0 0;font-size:.74rem;color:#7f88a8;letter-spacing:.02em}
